@@ -35,3 +35,4 @@ gin
 remmember
 run
 gulp
+stop
