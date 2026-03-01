@@ -22,3 +22,4 @@ goad
 gulp
 hunn
 ginn
+goat
