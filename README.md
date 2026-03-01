@@ -48,3 +48,4 @@ guild
 do
 sign
 sing
+history
