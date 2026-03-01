@@ -27,3 +27,4 @@ jump
 hut
 gin
 gimp
+stop
