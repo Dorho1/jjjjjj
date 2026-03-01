@@ -24,3 +24,4 @@ hunn
 ginn
 goat
 jump
+hut
