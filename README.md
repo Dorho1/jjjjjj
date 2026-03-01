@@ -43,3 +43,4 @@ stallion
 sword
 pure
 guilt
+hug
