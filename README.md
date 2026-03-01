@@ -28,3 +28,4 @@ hut
 gin
 gimp
 stop
+gym
