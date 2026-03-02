@@ -49,3 +49,4 @@ do
 sign
 sing
 history
+juo
