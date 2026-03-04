@@ -33,7 +33,7 @@ hope
 hone
 gin
 remmember
-run
+ru
 gulp
 stop
 raw
