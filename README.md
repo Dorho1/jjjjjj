@@ -23,7 +23,7 @@ gulp
 hunn
 ginn
 goat
-jump
+jum
 hut
 gin
 gimp
@@ -102,7 +102,9 @@ HELL
 
 game 
 hfjdj
-fjlglkgf
+fjlglkg
+
+hhjfj
 
 
 
