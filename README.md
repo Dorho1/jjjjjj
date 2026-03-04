@@ -14,7 +14,7 @@ great
 gameno
 good
 goon
-ye
+y
 great
 yess
 mammy
