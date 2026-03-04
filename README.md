@@ -13,7 +13,7 @@ game
 great
 gameno
 good
-goon
+goo
 y
 great
 yess
