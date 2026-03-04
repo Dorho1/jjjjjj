@@ -11,7 +11,7 @@ pas
 good
 game
 great
-gamenoy
+gameno
 good
 goon
 ye
