@@ -7,7 +7,7 @@ yes
 see
 yess
 pray
-pass
+pas
 good
 game
 great
